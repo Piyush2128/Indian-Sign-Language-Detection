@@ -68,9 +68,10 @@ During execution, the program uses the webcam to capture video frames, applies t
 - `model.h5`: This is the classifier model.
 
 ### Examples
-![example image 1](<img width="797" height="642" alt="image" src="https://github.com/user-attachments/assets/f337d560-f83d-4407-b3d1-3d4068313bcf" />
+(<img width="797" height="642" alt="image" src="https://github.com/user-attachments/assets/f337d560-f83d-4407-b3d1-3d4068313bcf" />
 
 )
-![example image 2](<img width="799" height="637" alt="Screenshot 2026-01-17 155840" src="https://github.com/user-attachments/assets/c1fe543a-b335-4601-a6ab-688e89cb28a8" />
+(<img width="799" height="637" alt="image" src="https://github.com/user-attachments/assets/25bc1f55-6719-4be3-a066-a80baf240d0d" />
+
 )
 
