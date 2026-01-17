@@ -73,13 +73,3 @@ During execution, the program uses the webcam to capture video frames, applies t
 ![example image 2](<img width="799" height="637" alt="Screenshot 2026-01-17 155840" src="https://github.com/user-attachments/assets/c1fe543a-b335-4601-a6ab-688e89cb28a8" />
 )
 
-### Future Improvements
-
-The following improvements can be made to the project:
-
-- Expand the dataset to include more examples of each ISL gesture to improve the accuracy of the classification model.
-- Implement a more sophisticated model architecture, such as a convolutional neural network (CNN), to improve the accuracy of the classification model.
-- Add support for more ISL gestures.
-- Implement a feature to convert the recognized gestures into text or speech.
-- Make the program more user-friendly by adding a GUI.
-
